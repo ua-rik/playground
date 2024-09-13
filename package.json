@@ -9,7 +9,9 @@
   "author": "Yaroslav Davydchuk",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^1.0.1",
     "lodash": "^4.17.21",
+    "numjs": "^0.16.1",
     "underscore": "^1.13.7"
   }
 }
